@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santos-guidev
-- 👀 I’m interested in Python programming and Cybersecurity
+- 👀 I’m interested in JavaScript, Python programming and Cybersecurity
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python and Web Development (HTML/CSS)
+- 💞️ I’m looking to collaborate on Python and JavaScript
 - 📫 How to reach me: santos.guidev@gmail.com
 - ⚡ Fun fact: In my spare time, I'm a Beatmaker / Music Producer
 
