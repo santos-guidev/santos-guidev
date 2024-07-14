@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santos-guidev
+## Hi there 👋
 - 👀 I’m interested in JavaScript, Python programming and Cybersecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python and JavaScript
