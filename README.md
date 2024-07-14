@@ -23,12 +23,13 @@
 <a href="https://www.linkedin.com/in/guilherme-santos-3a58a1265/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
+<div style="display: flex;">
   <a href="https://github.com/santos-guidev">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-guidev&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=santos-guidev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
 
               
 <!---
