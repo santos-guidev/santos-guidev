@@ -1,7 +1,7 @@
 <div align="center">
 
 # Guilherme Santos
-### Developer · Beatmaker · Problem Solver
+### Developer · Problem Solver
 
 *Crafting clean code and dirty beats from Santo André, SP 🇧🇷*
 
