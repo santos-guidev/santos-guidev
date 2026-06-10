@@ -3,7 +3,7 @@
 # Guilherme Santos
 ### Developer · Problem Solver
 
-*Crafting clean code and dirty beats from Santo André, SP 🇧🇷*
+*Crafting clean code from Santo André, SP 🇧🇷*
 
 </div>
 
